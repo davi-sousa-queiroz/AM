@@ -9,7 +9,6 @@ body {
   color: #fff;
 }
 
-/* The Fixed Transparent Navbar */
 .navbar {
   position: fixed;
   top: 0;
@@ -19,19 +18,14 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  
-  /* This ensures it has no background color */
   background: transparent; 
-  
-  /* Keeps the navbar on top of the scrolling content */
   z-index: 1000; 
 }
 
-/* Styling the Logo and Links */
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: #fff; /* Make sure this contrasts with your background sections */
+  color: #fff; 
   text-align: center;
 }
 
@@ -57,5 +51,5 @@ body {
 }
 
 .nav-links a:hover {
-  color: #ffdd57; /* Highlight color on hover */
+  color: #ffdd57;
 }
