@@ -54,7 +54,7 @@ This project was built roughly 2–3 weeks into seriously learning HTML & CSS as
 
 ## Preview 👀
 
-![preview](static/preview.jpg)
+![preview](static/am.png)
 
 ---
 
