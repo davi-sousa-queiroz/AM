@@ -1,4 +1,4 @@
-# Arctic Monkeys Landing Page 🎸🖤 (May 16th-17th)
+# 🎸🖤  Arctic Monkeys Landing Page (May 16th-17th)
 
 A cinematic Arctic Monkeys inspired landing page built with HTML & CSS.
 
