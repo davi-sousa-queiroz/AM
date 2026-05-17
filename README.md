@@ -10,7 +10,7 @@ Probably my cleanest frontend project so far.
 
 ## Live Demo
 
-[Visit Website](https://davi-sousa-queiroz.github.io/AM/)
+(https://davi-sousa-queiroz.github.io/AM/)
 
 ---
 
@@ -54,7 +54,7 @@ This project was built roughly 2–3 weeks into seriously learning HTML & CSS as
 
 ## Preview 👀
 
-![preview](static/am.jpg)
+![preview](static/preview.jpg)
 
 ---
 
