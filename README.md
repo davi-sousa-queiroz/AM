@@ -10,7 +10,7 @@ Probably my cleanest frontend project so far.
 
 ## Live Demo
 
-([https://davi-sousa-queiroz.github.io/AM/](https://davi-sousa-queiroz.github.io/arctic-monkeys-fanpage/))
+(https://davi-sousa-queiroz.github.io/arctic-monkeys-fanpage/)
 
 ---
 
